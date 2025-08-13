@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/ananditadubey/Documents/research2video_mvp/media/videos/scene1/480p15/partial_movie_files/SimpleScene/1185818338_3686248404_223132457.mp4'
+file 'file:/Users/ananditadubey/Documents/research2video_mvp/media/videos/scene1/480p15/partial_movie_files/SimpleScene/624642324_4071516364_2376481619.mp4'
+file 'file:/Users/ananditadubey/Documents/research2video_mvp/media/videos/scene1/480p15/partial_movie_files/SimpleScene/624642324_4095000099_3408729812.mp4'
+file 'file:/Users/ananditadubey/Documents/research2video_mvp/media/videos/scene1/480p15/partial_movie_files/SimpleScene/624642324_4071516364_1453959408.mp4'
+file 'file:/Users/ananditadubey/Documents/research2video_mvp/media/videos/scene1/480p15/partial_movie_files/SimpleScene/624642324_2323264677_118904278.mp4'
+file 'file:/Users/ananditadubey/Documents/research2video_mvp/media/videos/scene1/480p15/partial_movie_files/SimpleScene/624642324_4071516364_4156542260.mp4'
+file 'file:/Users/ananditadubey/Documents/research2video_mvp/media/videos/scene1/480p15/partial_movie_files/SimpleScene/624642324_3290653615_728510565.mp4'
